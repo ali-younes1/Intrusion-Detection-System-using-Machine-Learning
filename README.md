@@ -1,4 +1,4 @@
-# 🔐 Anomaly Detection for Network Intrusion Detection  
+# 🛡️ Anomaly Detection for Network Intrusion Detection  
 
 
 This repository contains a **notebook-based implementation** of anomaly detection techniques applied to **network intrusion detection systems (NIDS)**.  
