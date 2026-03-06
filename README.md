@@ -2,7 +2,7 @@
 
 
 This repository contains a **notebook-based implementation** of anomaly detection techniques applied to **network intrusion detection systems (NIDS)**.  
-The project focuses on modeling **normal network behavior** and detecting anomalous traffic using **probabilistic models and machine learning algorithms**.
+The project focuses on modeling **normal network behavior** and detecting anomalous traffic using **probabilistic and machine learning models**.
 
 ---
 
@@ -27,7 +27,7 @@ The work is structured around **two complementary notebooks**:
    - Feature-wise probability modeling
    - Voting-based anomaly decision strategy
 
-2. **Classical Machine Learning for IDS**
+2. **Machine Learning for IDS**
    - K-Nearest Neighbors (KNN)
    - Decision Trees
    - Support Vector Machines (SVM)
@@ -72,7 +72,7 @@ Business Understanding → Data Understanding → Data Preparation → Modeling 
 - Aggregation of feature probabilities using a **voting scheme**
 - Fully unsupervised training on normal traffic only
 
-### 5) Classical Machine Learning Models
+### 5) Machine Learning Models
 - K-Means clustering
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
