@@ -1,5 +1,5 @@
 # 🔐 Anomaly Detection for Network Intrusion Detection  
-**Gaussian Mixture Models, PCA, and Classical Machine Learning**
+
 
 This repository contains a **notebook-based implementation** of anomaly detection techniques applied to **network intrusion detection systems (NIDS)**.  
 The project focuses on modeling **normal network behavior** and detecting anomalous traffic using **probabilistic models and machine learning algorithms**.
